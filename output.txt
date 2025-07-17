@@ -1,0 +1,13 @@
+>>> Data:(90, 29, 1, 4, 1024) Label:(90, 29, 1)
+using gpu: 0
+[91m>>> Test:  loss=0.9097 acc=0.8870 f1=0.8872
+using gpu: 0
+[91m>>> Test:  loss=0.4942 acc=0.8314 f1=0.8310
+using gpu: 0
+[91m>>> Test:  loss=0.4254 acc=0.8774 f1=0.8779
+using gpu: 0
+[91m>>> Test:  loss=0.4289 acc=0.8851 f1=0.8852
+using gpu: 0
+[91m>>> Test:  loss=0.6518 acc=0.8985 f1=0.8990
+[0mFinal: test mean ACC:0.8758620689655172 std:0.023223574652401137
+[0mFinal: val mean ACC:0.0 std:0.0

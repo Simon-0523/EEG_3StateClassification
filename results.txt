@@ -1,0 +1,13 @@
+
+2025-07-17 00:05:17.310577
+Train:Parameter setting for State_Detection on state
+1)number_class:3
+2)random_seed:12
+3)learning_rate:0.0001
+4)num_epochs:300
+5)batch_size:128
+6)dropout:0.5
+7)hidden_node:4
+8)input_shape:(1, 4, 1024)
+9)T:16
+test mAcc=0.8758620689655172 std=0.023223574652401137 mF1=0.8760700328563443 std=0.023516958532150387
