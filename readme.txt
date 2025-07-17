@@ -10,7 +10,11 @@ Install the requirements by:
 
 > $ pip3 install -r requirements.txt
 
+
+Unzip s01.zip and data_raw_state.zip, the s01.dat should in the .py file directory
 # Run the code
+
+
 To run the code for new training, please type the following command in the terminal:
 
 The overall EEG sample in s01.dat includes data: 477×4×15360 and label: 477.
